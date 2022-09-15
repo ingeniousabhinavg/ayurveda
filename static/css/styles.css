@@ -1,0 +1,10 @@
+*{margin: 0%; padding: 0%; box-sizing: border-box;}
+
+/* navbar styles  */
+strong{
+    color: rgb(3, 143, 127);
+}
+.navbar {
+    background-color: rgb(173, 255, 255);
+}
+/* navbar styles  */
